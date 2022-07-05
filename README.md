@@ -7,13 +7,13 @@
 </h4>
 
 <div align="center">
-  <img alt="GitHub language count" src="">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LauriRodrigues/Page-Exemplo-de-Responsividade?color=%238257e5">
 
-  <img alt="GitHub repo size" src="">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LauriRodrigues/Page-Exemplo-de-Responsividade?color=%238257e5">
   
-  <img alt="GitHub last commit" src="">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/Page-Exemplo-de-Responsividade?color=%238257e5">
   
-  <a href=""> ▶️ Visualizar Deploy </a>
+  <a href="https://laurirodrigues.github.io/Page-Exemplo-de-Responsividade/"> ▶️ Visualizar Deploy </a>
 </div>
 
 <h2 align=left> 💻 Sobre o projeto </h3>
@@ -35,4 +35,4 @@
 
 <h4>📱​ Mobile </h4>
 
-<img alt="Versão Mobile" title="Mobile" src="./readme/Mobile.png" width="70%">
+<img alt="Versão Mobile" title="Mobile" src="./readme/Mobile.png" width="25%">
